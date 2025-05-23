@@ -43,7 +43,7 @@ By the end of the module, I had created a formal career development plan that al
 
 ### 🎯 Skills and Interests
 
-**📁 Evidence:** [View Skill and Interest Completion Evidence](./TaskCompleted/Skillandlnterest.png)
+**📁 Evidence:** [View Skill and Interest Completion Evidence](./TaskCompleted/SkillsandInterest.png)
 
 **Reflection:**  
 Before completing this module, I had a general understanding of what I was good at, but I couldn’t clearly articulate how my skills aligned with career opportunities. I needed a structured way to identify and reflect on my strengths and areas for growth.

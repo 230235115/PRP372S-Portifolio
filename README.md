@@ -1,33 +1,25 @@
-# PRP372S-Portifolio
+# 👋 Hi there!
 
+Welcome to my digital portfolio for the **PRP372S Work Readiness Programme**. This space highlights my personal and professional growth during Term 1 of 2025, as I prepared myself for entering the workplace in the IT industry.
 
-**Student Name:** Emihle Sidumo  
-**Student Number:** 230235115  
-**Qualification:** Diploma in ICT Application Development   
-**Subject:** Project Presentation3 (PRP372S)  
-**Lecturer:** P. Inderlal  
 
 
 ---
 
 ## 📘 About This Portfolio
 
+Inside this repository, you'll find reflections and evidence from the five key modules I completed:
 
-This portfolio presents evidence of my readiness for the workplace, structured around key work readiness modules completed during PRP372S. Each section contains:
-- Evidence of learning
-- Reflection using the STAR technique
+- 🧭 Career Counselling  
+- 🎯 Skills and Interests  
+- 👤 Personality Assessment  
+- 📄 Create a CV  
+- 📤 CV Submission  
 
-## 📁 Portfolio Contents
-
-| Topic                    | File Link                                  |
-|--------------------------|--------------------------------------------|
-| Career Counselling       | [career-counselling.md](career-counselling.md) |
-| Skills and Interests     | [skills-and-interests.md](skills-and-interests.md) |
-| Personality Assessment   | [personality-assessment.md](personality-assessment.md) |
-| Create a CV              | [create-cv.md](create-cv.md) |
-| CV Submission            | [cv-submission.md](cv-submission.md) |
+Each section includes real examples of my work and a structured reflection using the **STAR technique** (Situation, Task, Action, Result).
 
 ---
+
 
 
 

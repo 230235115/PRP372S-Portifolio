@@ -28,7 +28,7 @@ Each section includes real examples of my work and a structured reflection using
 
 ### 🧭 Career Counselling
 
-**📁 Evidence:** See uploaded image: `Career development.png` 
+**📁 Evidence:** [View Career Development Completion Evidence](./taskcompleted/CareerDevelopment.png)
 
 **Reflection:**  
 At the beginning of the Work Readiness Programme, I realized I didn’t have a clear idea of where I wanted to position myself within the ICT industry. While I had interests in front-end development, I hadn’t yet mapped a structured career path or defined long-term goals.
@@ -43,7 +43,7 @@ By the end of the module, I had created a formal career development plan that al
 
 ### 🎯 Skills and Interests
 
-**📁 Evidence:** See uploaded image: `Skills and interest.png`
+**📁 Evidence:** [View Skill and Interest Completion Evidence](./taskcompleted/SkillandInterest.png)
 
 **Reflection:**  
 Before completing this module, I had a general understanding of what I was good at, but I couldn’t clearly articulate how my skills aligned with career opportunities. I needed a structured way to identify and reflect on my strengths and areas for growth.
@@ -58,7 +58,7 @@ This activity helped me develop a clear profile of my current capabilities and g
 
 ### 👤 Personality Assessment
 
-**📁 Evidence:** See uploaded image: `Personality assessment.png`
+**📁 Evidence:** [View Personal Assessment Completion Evidence](./taskcompleted/PersonalAssessment.png)
 
 **Reflection:**  
 I was curious about how my personality affects my teamwork and learning style, especially in group projects and during job interviews. I wanted to understand myself better to work more effectively with others.
@@ -73,8 +73,7 @@ I gained greater self-awareness and clarity about what roles suit my personality
 
 ### 📄 Create a CV
 
-**📁 Evidence:** See uploaded image: `Create Cv.png`  
-
+**📁 Evidence:** [View Create a Cv Completion Evidence](./taskcompleted/CreateCv.png)
 **Reflection:**  
 Before this module, I had a basic CV that lacked structure and didn’t effectively communicate my skills or experiences. I needed to create a professional document that could be used to apply for internships and job opportunities.
 
@@ -88,7 +87,7 @@ I produced a polished and professional CV that effectively represents me. I’m 
 
 ### 📤 CV Submission
 
-**📁 Evidence:** See uploaded image: `CV submission.png`
+**📁 Evidence:** [View CV Submission Completion Evidence](./taskcompleted/CVsubmission.png)
 
 **Reflection:**  
 After creating my CV, I had to ensure it was submitted through the proper channels and met the academic and professional standards required for the Work-Integrated Learning (WIL) placement process.
